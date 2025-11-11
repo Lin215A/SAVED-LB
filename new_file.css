@@ -20,7 +20,7 @@
 	margin: 0px auto;
 	width: 960px;
 	height: 709px;
-	transform: scale(0.6);
+	transform: scale none;
 }
 .out>ul>li{
 	position: absolute;
@@ -79,6 +79,7 @@
 	display: block;
 	clear: both;
 }
+
 
 
 
